@@ -3,4 +3,5 @@ Repository to manage the New Business product which comes under the Operations p
 
 View details form to see different insurance products.
 
-SQL Logic to provide recommendation
+SQL Logic to provide recommendation.
+Business 4.0 implementation
