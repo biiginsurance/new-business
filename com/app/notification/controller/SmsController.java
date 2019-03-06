@@ -1,8 +1,11 @@
+import org.apache.log4j.logger
 public class SmsController {
 
+final static Logger logger = Logger.getLogger(SmsController.class);
+
+
     public static void main(String[] args) {
-        // Prints "This is SmsController" to the terminal window.
-        System.out.println("This is SmsController");
+        logger.info("This is SmsController");
     }
 
 }
