@@ -5,4 +5,5 @@ View details form to see different insurance products.
 
 SQL Logic to provide recommendation.
 Business 4.0 implementation
-Sample change made towards implementation of US78
+Sample change made towards implementation of US122
+smoke test
